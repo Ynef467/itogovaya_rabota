@@ -1,0 +1,15 @@
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\bin\Debug\net6.0\Program_c#.exe
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\bin\Debug\net6.0\Program_c#.deps.json
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\bin\Debug\net6.0\Program_c#.runtimeconfig.json
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\bin\Debug\net6.0\Program_c#.dll
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\bin\Debug\net6.0\Program_c#.pdb
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.csproj.AssemblyReference.cache
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.AssemblyInfoInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.AssemblyInfo.cs
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.csproj.CoreCompileInputs.cache
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.dll
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\refint\Program_c#.dll
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.pdb
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\Program_c#.genruntimeconfig.cache
+C:\Users\Ynef4\Desktop\Оучение\Kontrol_rabota_block_1\Program_c#\obj\Debug\net6.0\ref\Program_c#.dll
