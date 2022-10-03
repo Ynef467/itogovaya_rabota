@@ -7,6 +7,8 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → [] */
 
+
+
 Console.Clear();
 
 Console.WriteLine("Введите любое количество строковых элементов через пробел:");
